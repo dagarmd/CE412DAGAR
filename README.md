@@ -18,7 +18,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın**:
     ```bash
-    git clone https://github.com/kullanici_adi/CE412Deniz.git
+    git clone [https://github.com/kullanici_adi/CE412Deniz.git](https://github.com/dagarmd/CE412DAGAR.git)
     cd CE412Deniz
     ```
 
@@ -32,5 +32,5 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 Simülasyonu çalıştırmak için `main.py` dosyasını çalıştırın. Bu dosya, hem tek ürün tipi hem de çoklu ürün tipi simülasyonlarını çalıştırır ve sonuçları raporlar.
 
 ```bash
-python main.py
+python project.py
 # CE412Deniz
